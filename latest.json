@@ -1,11 +1,11 @@
 {
-  "version": "1.1.8",
-  "build": 10,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.8/light-habit-1.1.8.apk",
-  "sha256": "3640ae192837bd7cdbfdb10af48118b6e105b3771d915ffb625ccbd1e480acba",
-  "sizeBytes": 103068876,
-  "notes": "专注完成后可一键写日记并自动关联；没有习惯时也能专注",
+  "version": "1.1.9",
+  "build": 11,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.9/light-habit-1.1.9.apk",
+  "sha256": "77bbf9e086571f282088f7d50823db64215d41b6c43880ef5dfbc4cf2b4d78c8",
+  "sizeBytes": 103150844,
+  "notes": "日记提醒：每天定时提醒写日记，可单独关闭，通知不含正文",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T21:03:30Z"
+  "publishedAt": "2026-11-19T21:38:32Z"
 }
