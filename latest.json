@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "build": 6,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.4/light-habit-1.1.4.apk",
-  "sha256": "a1b9af8e0948c8858c2a332b7b0ea92a5e65fd78a0ce30af9b8c2bf6288d8ad8",
-  "sizeBytes": 102984484,
-  "notes": "导出可选包含日记（默认关闭、每次需勾选）；导入按 ID 去重",
+  "version": "1.1.5",
+  "build": 7,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.5/light-habit-1.1.5.apk",
+  "sha256": "0af6037fbb87f60f15737855e5be68107e05c94f65e70a4cc579e37d9492997c",
+  "sizeBytes": 103000868,
+  "notes": "导入会写入导出文件里的日记段（按 ID 去重，本机优先）",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T19:25:25Z"
+  "publishedAt": "2026-11-19T19:40:59Z"
 }
