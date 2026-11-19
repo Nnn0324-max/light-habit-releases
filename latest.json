@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "build": 2,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.0/light-habit-1.1.0.apk",
-  "sha256": "fd1df39b1eec50e781f4aa0708073eee57f26827a84aabcf3c1bebf3a2b2bb18",
-  "sizeBytes": 102853264,
-  "notes": "番茄钟与本地日记；专注会话可恢复、日记自动存草稿",
+  "version": "1.1.1",
+  "build": 3,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.1/light-habit-1.1.1.apk",
+  "sha256": "812c15fd064001e9f6035a23374c8f39962fb689b62dbd92d0bbe79a8fa42745",
+  "sizeBytes": 102968096,
+  "notes": "今日页可直接开始专注；杀掉 App 也能恢复会话；专注通知独立频道",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T17:49:59Z"
+  "publishedAt": "2026-11-19T18:05:21Z"
 }
