@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "build": 13,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.1/light-habit-1.2.1.apk",
-  "sha256": "e6919186a1bc09b20e716b5154e9b9dba202731c290d4af66d66abba9da631b4",
-  "sizeBytes": 103298320,
-  "notes": "习惯详情页可为该习惯开始专注并查看累计时长；计时器改为全局，切页不中断",
+  "version": "1.2.2",
+  "build": 14,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.2/light-habit-1.2.2.apk",
+  "sha256": "5312ab9342e7bd92d73f4ede143d50f0a8133554b6af5ab8333a3e4b08488cf7",
+  "sizeBytes": 103298316,
+  "notes": "删除日记需二次确认；日历里可补写历史日期的日记",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T22:36:27Z"
+  "publishedAt": "2026-11-19T22:53:41Z"
 }
