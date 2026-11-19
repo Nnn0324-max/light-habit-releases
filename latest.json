@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "build": 4,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.2/light-habit-1.1.2.apk",
-  "sha256": "4a62c1f656add9fb1ebd7763a7ed74b439c7497585d3727bca79f77c13fc5b7a",
+  "version": "1.1.3",
+  "build": 5,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.3/light-habit-1.1.3.apk",
+  "sha256": "2fdb9b9f3658475706123759466f57694da22bae67367ff09a28bd25508b3bf8",
   "sizeBytes": 102984484,
-  "notes": "统计页新增专注区块（次数/分钟/日周目标/7 天节奏）",
+  "notes": "恢复旧备份时会保留现有日记；备份天然包含日记与专注历史",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T18:36:42Z"
+  "publishedAt": "2026-11-19T18:51:19Z"
 }
