@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "build": 15,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.3/light-habit-1.2.3.apk",
-  "sha256": "3da41c25441f14f17c98d9fb831ac8fd03290d8fd329afab1ba5005bbe34752f",
-  "sizeBytes": 103298320,
-  "notes": "200% 字号下打卡按钮不再截断；四个主页面无未标注的可点击控件",
+  "version": "1.2.4",
+  "build": 16,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.4/light-habit-1.2.4.apk",
+  "sha256": "6b490e81b0061d800d0a0ce6218a22214abcdf0444e899f8afadc7fd595565a7",
+  "sizeBytes": 103331152,
+  "notes": "关于页可检查更新；有新版显示说明与下载入口；每天最多静默检查一次",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T23:11:48Z"
+  "publishedAt": "2026-11-19T23:41:07Z"
 }
