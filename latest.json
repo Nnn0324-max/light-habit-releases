@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "build": 14,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.2/light-habit-1.2.2.apk",
-  "sha256": "5312ab9342e7bd92d73f4ede143d50f0a8133554b6af5ab8333a3e4b08488cf7",
-  "sizeBytes": 103298316,
-  "notes": "删除日记需二次确认；日历里可补写历史日期的日记",
+  "version": "1.2.3",
+  "build": 15,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.3/light-habit-1.2.3.apk",
+  "sha256": "3da41c25441f14f17c98d9fb831ac8fd03290d8fd329afab1ba5005bbe34752f",
+  "sizeBytes": 103298320,
+  "notes": "200% 字号下打卡按钮不再截断；四个主页面无未标注的可点击控件",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T22:53:41Z"
+  "publishedAt": "2026-11-19T23:11:48Z"
 }
