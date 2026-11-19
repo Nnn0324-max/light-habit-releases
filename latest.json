@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "build": 3,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.1/light-habit-1.1.1.apk",
-  "sha256": "812c15fd064001e9f6035a23374c8f39962fb689b62dbd92d0bbe79a8fa42745",
-  "sizeBytes": 102968096,
-  "notes": "今日页可直接开始专注；杀掉 App 也能恢复会话；专注通知独立频道",
+  "version": "1.1.2",
+  "build": 4,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.2/light-habit-1.1.2.apk",
+  "sha256": "4a62c1f656add9fb1ebd7763a7ed74b439c7497585d3727bca79f77c13fc5b7a",
+  "sizeBytes": 102984484,
+  "notes": "统计页新增专注区块（次数/分钟/日周目标/7 天节奏）",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T18:05:21Z"
+  "publishedAt": "2026-11-19T18:36:42Z"
 }
