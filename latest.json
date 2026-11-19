@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "build": 8,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.6/light-habit-1.1.6.apk",
-  "sha256": "5a1c01585c972b12b735110c9b6e495a4ceeec401f4dcc494173dcae56affeb1",
-  "sizeBytes": 103002424,
-  "notes": "关于页开源与致谢、MIT 许可文本、中文隐私说明；版本号显示修正",
+  "version": "1.1.7",
+  "build": 9,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.1.7/light-habit-1.1.7.apk",
+  "sha256": "ccdf7e6fe6311c749487708fac1f5b042cc768640c9aa09c24c61b98f6c8410f",
+  "sizeBytes": 103068876,
+  "notes": "系统备份不再带走数据库与私有文件；英文界面标签修正；版本号显示 1.1.7+9",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-19T20:21:17Z"
+  "publishedAt": "2026-11-19T20:45:18Z"
 }
