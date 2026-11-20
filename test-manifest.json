@@ -1,0 +1,11 @@
+{
+  "notes": "这是用于验证「有新版本」界面的测试清单，不是真实发行版。",
+  "minSupported": 1,
+  "build": 21,
+  "sizeBytes": 103317508,
+  "publishedAt": "2026-11-20T02:34:34Z",
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.8/light-habit-1.2.8.apk",
+  "mandatory": false,
+  "sha256": "c1f8977f4ba3c507aabfee414bb61e5ec4bb69c33e2d6be9b3b046b6a96eb9b0",
+  "version": "1.2.9"
+}
