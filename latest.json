@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
-  "build": 21,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.9/light-habit-1.2.9.apk",
-  "sha256": "e8b9f6c2367f47f06be114859061422c8fdae9a9b818fed9a496e0fbb2beb508",
-  "sizeBytes": 103317676,
-  "notes": "更新提示全链路修复：检查后关于页与我的页同步、升级后旧标记自动清除",
+  "version": "1.2.10",
+  "build": 22,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.10/light-habit-1.2.10.apk",
+  "sha256": "0c16c088aec7c8685c5f039e4871ece367f211a5976557b2b9fe63c7d9d5055e",
+  "sizeBytes": 103317920,
+  "notes": "Android 7/8.0 上添加桌面小组件不再崩溃；已在 Android 7.0 与 9 实测",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-20T03:04:55Z"
+  "publishedAt": "2026-11-20T03:33:03Z"
 }
