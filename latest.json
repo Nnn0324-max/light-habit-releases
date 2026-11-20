@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "build": 20,
-  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.8/light-habit-1.2.8.apk",
-  "sha256": "c1f8977f4ba3c507aabfee414bb61e5ec4bb69c33e2d6be9b3b046b6a96eb9b0",
-  "sizeBytes": 103317508,
-  "notes": "平板折叠侧栏整行可点（含文字），每项作为整体被读屏朗读",
+  "version": "1.2.9",
+  "build": 21,
+  "apk": "https://github.com/Nnn0324-max/light-habit-releases/releases/download/v1.2.9/light-habit-1.2.9.apk",
+  "sha256": "e8b9f6c2367f47f06be114859061422c8fdae9a9b818fed9a496e0fbb2beb508",
+  "sizeBytes": 103317676,
+  "notes": "更新提示全链路修复：检查后关于页与我的页同步、升级后旧标记自动清除",
   "mandatory": false,
   "minSupported": 1,
-  "publishedAt": "2026-11-20T02:21:22Z"
+  "publishedAt": "2026-11-20T03:04:55Z"
 }
